@@ -1,4 +1,1 @@
-# demo-repo
-This is a demo repo.
-<br>
-We are exploring the .md file
+This is just a simple web page with my intro and social media links.
